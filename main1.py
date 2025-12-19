@@ -2,7 +2,7 @@ from fastapi import FastAPI
 import psycopg2
 
 app = FastAPI()
-
+app = fast
 def get_connection():
     return psycopg2.connect(
         host="localhost",
