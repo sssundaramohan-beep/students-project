@@ -3,7 +3,7 @@
 # import psycopg2
 
 # app = FastAPI()
-#fffff
+#Chit Members APIs
 # def get_connection():
 #     return psycopg2.connect(
 #         host="localhost",
