@@ -7,7 +7,7 @@
 # def get_connection():
 #     return psycopg2.connect(
 #         host="localhost",
-#         database="chit_fund",
+#         database="chit",
 #         user="postgres",
 #         password="12345"
 #     )
